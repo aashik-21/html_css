@@ -1,9 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Header } from "./components/Header";
-import { Home } from "./components/compare/Home";
-import { Cart } from "./components/cart";
-
+import { Home } from "./components/compare/Home"; import { Cart } from "./components/cart";
 function App() {
   return (
     <BrowserRouter>
@@ -17,5 +15,5 @@ function App() {
     </BrowserRouter>
   );
 }
- 
+
 export default App;

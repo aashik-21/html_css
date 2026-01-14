@@ -1,7 +1,9 @@
-import React from 'react'
-
+import React from "react";
+import data from "../../assets/foods.json";
 export const Home = () => {
     return (
-        <div>Home</div>
-    )
-}
+        <div>
+            <p>This is Home pages</p>
+        </div>
+    );
+};

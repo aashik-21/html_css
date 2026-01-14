@@ -1,0 +1,74 @@
+[
+  {
+    "id": 89,
+    "name": "Farmers Pick",
+    "amt": "299",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 124,
+    "name": "Paper Roast Dosa",
+    "amt": "65",
+    "shop": "Sri Saivihar",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 26,
+    "name": "Alfredo Pasta",
+    "amt": "185",
+    "shop": "LAKSHMI FOOD",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/26.jpg",
+    "latest": "Yes"
+  },
+  {
+    "id": 9,
+    "name": "Chicken 65",
+    "amt": "220",
+    "shop": "Salem Rr Briyani",
+    "ftype": "Non-Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/9.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 80,
+    "name": "Momo Mia Meal",
+    "amt": "299",
+    "shop": "Pizza Hut",
+    "ftype": "Pizza",
+    "pic": "https://www.app.tutorjoes.in/img/food/80.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 28,
+    "name": "Orange Juice",
+    "amt": "70",
+    "shop": "JUICE MALL",
+    "ftype": "Juice",
+    "pic": "https://www.app.tutorjoes.in/img/food/28.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 67,
+    "name": "Milk Halwa",
+    "amt": "77",
+    "shop": "Shri Gupta Sweets",
+    "ftype": "Sweet",
+    "pic": "https://www.app.tutorjoes.in/img/food/67.jpg",
+    "latest": "No"
+  },
+  {
+    "id": 120,
+    "name": "Vegetable Soup",
+    "amt": "123",
+    "shop": "Sri Saivihar",
+    "ftype": "Veg",
+    "pic": "https://www.app.tutorjoes.in/img/food/120.jpg",
+    "latest": "No"
+  }
+]

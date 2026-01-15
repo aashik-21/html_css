@@ -57,6 +57,30 @@
   font-size: 15px;
   font-weight: 600;
   color: #28a745;
+  margin-bottom: 8px;
+}
+
+.remove-btn {
+  padding: 8px 16px;
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+  font-size: 14px;
+}
+
+.remove-btn:hover {
+  background-color: #c82333;
+}
+
+.cart-empty {
+  text-align: center;
+  padding: 40px;
+  color: #666;
+  font-size: 18px;
 }
 
 .cart-amt {

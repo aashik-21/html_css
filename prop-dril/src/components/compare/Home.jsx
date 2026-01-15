@@ -2,8 +2,10 @@ import React, { useState } from "react";
 import "./product.css";
 import data from "../../assets/foods.json";
 import "./Home.css";
-export const Home = () => {
+
+export const Home = ({ addToCart }) => {
     const [products] = useState(data);
+    
     return (
         <div className="home-container">
             <h2>Our Products</h2>
@@ -19,7 +21,9 @@ export const Home = () => {
                                 <h3>{product.name}</h3>
                                 <p className="shop">{product.shop}</p>
                                 <p className="price">Price Rs: {product.amt}</p>
-                                <button>Add to Cart</button>
+                                <button onClick={() => addToCart(product)}>
+                                    Add to Cart
+                                </button>
                             </div>
                         </div>
                     );
